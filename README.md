@@ -1,5 +1,5 @@
 # TikTokChecker
-**Check Releases to Download**
+**Check Releases to Download**  
 This is the free version of the TikTok username checker made by NotSlater#0999
 Join the discord to buy premium! [AIO Discord](https://discord.gg/tdqsuUTVcW)
 
